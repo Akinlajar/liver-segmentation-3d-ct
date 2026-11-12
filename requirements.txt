@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+scipy
+pydicom
+SimpleITK
+dicom2nifti
+nibabel
+imgaug
+matplotlib
+tensorboard
+tqdm
